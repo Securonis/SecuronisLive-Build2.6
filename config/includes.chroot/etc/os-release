@@ -1,0 +1,10 @@
+PRETTY_NAME="Securonis Linux"
+NAME="Securonis"
+ID=debian
+ID_LIKE=debian
+VERSION_CODENAME=Near2Shell
+RELEASE_TYPE=stable
+VENDOR_NAME=root0emir
+VERSION="2.6"
+VERSION_ID="2.6"
+HOME_URL="https://securonis.github.io"  

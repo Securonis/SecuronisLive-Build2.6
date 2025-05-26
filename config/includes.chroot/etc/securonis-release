@@ -1,0 +1,6 @@
+System:Securonis Linux
+Version:2.6
+Codename:Near2Shell
+ReleaseType:Stable/LTS
+BasedOn:Debian Trixie(Testing)
+
