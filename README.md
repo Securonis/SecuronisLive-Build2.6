@@ -7,7 +7,7 @@ This is the live-build configuration for Securonis Linux. You can build Securoni
 
 Securonis GNU/Linux
 
-Version 2.5
+Version 2.6
 
 Codename: Near2Shell
 
