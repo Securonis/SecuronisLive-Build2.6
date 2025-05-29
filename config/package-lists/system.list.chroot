@@ -28,3 +28,5 @@ lsb-release
 lshw
 apt-transport-tor
 dconf-cli
+xsel
+pv
